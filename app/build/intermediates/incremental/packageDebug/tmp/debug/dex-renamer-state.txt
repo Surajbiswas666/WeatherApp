@@ -1,0 +1,4 @@
+#Mon Dec 05 15:17:11 IST 2022
+base.0=D\:\\WeatherApp\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
